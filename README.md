@@ -1,2 +1,3 @@
 # First
-let me have a try.
+let me have a try
+how to use it
